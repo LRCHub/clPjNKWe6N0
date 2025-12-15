@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "アイロニ",
+  "base_artist": "すこっぷ",
+  "createdAt": "2025-12-15T16:40:14.214742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイロニ - 2019 Live Version",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/01_アイロニ_-_2019_Live_Version_majiko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイロニ (2019 Live Version)",
+      "artist": "Majiko",
+      "has_synced": true,
+      "path": "select/02_アイロニ_(2019_Live_Version)_Majiko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイロニ ver.KK",
+      "artist": "KK×すこっぷ",
+      "has_synced": true,
+      "path": "select/03_アイロニ_ver.KK_KK×すこっぷ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイロニ",
+      "artist": "すこっぷ feat. Rid",
+      "has_synced": true,
+      "path": "select/04_アイロニ_すこっぷ_feat._Rid.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイロニ",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/05_アイロニ_majiko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイロニ",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン",
+      "has_synced": true,
+      "path": "select/06_アイロニ_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイロニ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/07_アイロニ_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイロニ",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/08_アイロニ_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイロニ",
+      "artist": "Kano",
+      "has_synced": true,
+      "path": "select/09_アイロニ_Kano.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイロニ - Irony",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/10_アイロニ_-_Irony_majiko.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイロニ",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/11_アイロニ_majiko.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アイロニ",
+      "artist": "こはならむ",
+      "has_synced": true,
+      "path": "select/12_アイロニ_こはならむ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アイロニ",
+      "artist": "H△G",
+      "has_synced": true,
+      "path": "select/13_アイロニ_H△G.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アイロニ ver.ヲタみん",
+      "artist": "ヲタみん",
+      "has_synced": false,
+      "path": "select/14_アイロニ_ver.ヲタみん_ヲタみん.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アイロニ",
+      "artist": "そらる",
+      "has_synced": true,
+      "path": "select/15_アイロニ_そらる.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "アイロニ",
+      "artist": "25時、ナイトコードで。 (楠木ともり, 田辺留依, 鈴木みのり, 佐藤日向)",
+      "has_synced": true,
+      "path": "select/16_アイロニ_25時、ナイトコードで。_(楠木ともり,_田辺留依,_鈴木みのり,_佐藤日向).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイロニ",
+      "artist": "すこっぷ",
+      "has_synced": false,
+      "path": "select/pl_01_アイロニ_すこっぷ.txt"
+    }
+  ]
+}
